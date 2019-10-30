@@ -1,2 +1,5 @@
 # convert_bdd100k2voc
 This contents the script to convert Deep Drive dataset labels (with json format) to VOC (xml format)
+``` bash
+    ./anno_bdd1002voc.sh
+```
